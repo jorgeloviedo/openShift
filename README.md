@@ -36,9 +36,10 @@ If needing to select a specific Python version when using ``oc new-app``, you sh
 oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
 ```
 
-# Open Shift
+# Open Shift Documentation.
 
-##### OpenShift es Kubernetes para empresas
+
+##### OpenShift es Kubernetes para empresas.
 * https://www.redhat.com/es/topics/containers/what-is-kubernetes
 
 
@@ -51,7 +52,7 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
     Red Hat OpenShift Online
     ```
 
-##### Instalación y configuración del cliente de Openshift - Tunel para el CLI de Openshift
+##### Instalación y configuración del cliente de Openshift - Tunel para el CLI de Openshift.
 * https://torusware.com/es/blog/2017/02/openshift-origin-jenkins-almacenamiento-persistente-glusterfs/
 
 
@@ -60,41 +61,40 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
 * https://github.com/openshift/origin/releases
 
 
-##### Docker, Kubernetes, Openshift y Openstack para mi abuela
+##### Docker, Kubernetes, Openshift y Openstack para mi abuela.
 * https://www.youtube.com/watch?v=DtyAJmIyxPo
     ```
     (open shift 27 minutos 23 segundos del video)
     ```
 
-
-##### Openshift quickstart: Django
+##### Openshift quickstart: Django.
 * https://github.com/openshift/django-ex
 
 
-##### Interactive Learning Portal
+##### Interactive Learning Portal.
 * https://learn.openshift.com/
 
 
-##### Download OpenShift Origin
+##### Download OpenShift Origin.
 * https://www.openshift.org/download.html#oc-platforms
 
 
-##### Installation and Configuration - Advanced Installation
+##### Installation and Configuration - Advanced Installation.
 * https://docs.openshift.org/latest/install_config/install/advanced_install.html
 
 
-##### Create and Build an Image Using the Web Console
+##### Create and Build an Image Using the Web Console.
 * https://docs.openshift.org/latest/getting_started/developers_console.html
 
 
-##### Python Template Repository Layout
+##### Python Template Repository Layout.
 * https://developers.openshift.com/languages/python/repository-layout.html
 
 
-##### Getting Started with the Flask Microframework
+##### Getting Started with the Flask Microframework.
 * https://developers.openshift.com/languages/python/flask.html
 
 
-##### Distribución de librerías Python con setup.py
+##### Distribución de librerías Python con setup.py.
 * https://rukbottoland.com/blog/distribucion-de-librerias-python-con-setuppy/
 * https://github.com/rukbotto/starwars-ipsum/
