@@ -1,3 +1,12 @@
+PENDIENTE DE INVESTIGAR
+0) Instalación y configuración del cliente de Openshift
+1) ver la parte del script de https://github.com/openshift/django-ex
+2) que ofrece cada uno de los modelos - Multiple Deployment Models to Meet Your Needs - https://www.openshift.com/
+3) ver alguno de los https://learn.openshift.com/
+4) ver si - https://github.com/sclorg/s2i-python-container/tree/master/2.7
+
+
+
 # Flask Sample Application
 
 This repository provides a sample Python web application implemented using the Flask web framework and hosted using ``gunicorn``. It is intended to be used to demonstrate deployment of Python web applications to OpenShift 3.
@@ -96,3 +105,11 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
 ##### Distribución de librerías Python con setup.py.
 * https://rukbottoland.com/blog/distribucion-de-librerias-python-con-setuppy/
 * https://github.com/rukbotto/starwars-ipsum/
+
+
+##### Openshift quickstart: Django
+* https://github.com/openshift/django-ex
+
+
+##### Create and Build an Image Using the Web Console
+* https://docs.openshift.org/latest/getting_started/developers_console.html
