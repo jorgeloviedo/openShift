@@ -66,7 +66,6 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
     ```
     (open shift 27 minutos 23 segundos del video)
     ```
-
 ##### Openshift quickstart: Django.
 * https://github.com/openshift/django-ex
 
