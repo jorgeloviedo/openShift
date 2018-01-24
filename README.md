@@ -51,7 +51,6 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
     Red Hat OpenShift Dedicated
     Red Hat OpenShift Online
     ```
-
 ##### Instalación y configuración del cliente de Openshift - Tunel para el CLI de Openshift.
 * https://torusware.com/es/blog/2017/02/openshift-origin-jenkins-almacenamiento-persistente-glusterfs/
 
