@@ -17,7 +17,7 @@
 * https://torusware.com/es/blog/2017/02/openshift-origin-jenkins-almacenamiento-persistente-glusterfs/
 
 
-##### OpenShift Origin is a distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OpenShift adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
+##### OpenShift Origin is a distribution of Kubernetes optimized for continuous application development and multi-tenant deployment.
 * https://github.com/openshift/origin
 * https://github.com/openshift/origin/releases
 
