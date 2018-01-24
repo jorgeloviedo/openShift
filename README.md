@@ -44,9 +44,9 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
 ##### Red Hat® OpenShift es una plataforma de aplicaciones de contenedores que aporta Docker y Kubernetes a la empresa.
 * https://www.openshift.com/
 * https://www.redhat.com/es/technologies/cloud-computing/openshift
-	``Red Hat OpenShift Container Platform``
-	``Red Hat OpenShift Dedicated``
-	``Red Hat OpenShift Online``
+	* Red Hat OpenShift Container Platform
+	* Red Hat OpenShift Dedicated
+	* Red Hat OpenShift Online
 
 ##### Instalación y configuración del cliente de Openshift - Tunel para el CLI de Openshift
 * https://torusware.com/es/blog/2017/02/openshift-origin-jenkins-almacenamiento-persistente-glusterfs/
@@ -56,8 +56,7 @@ oc new-app python:2.7~https://github.com/OpenShiftDemos/os-sample-python.git
 * https://github.com/openshift/origin/releases
 
 ##### Docker, Kubernetes, Openshift y Openstack para mi abuela
-* https://www.youtube.com/watch?v=DtyAJmIyxPo
-* open shift 27 minutos 23 segundos del video
+* https://www.youtube.com/watch?v=DtyAJmIyxPo (open shift 27 minutos 23 segundos del video)
 
 ##### Openshift quickstart: Django
 * https://github.com/openshift/django-ex
