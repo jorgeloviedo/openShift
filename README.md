@@ -15,7 +15,7 @@ In addition, the ``.s2i/environment`` file has been created to allow environment
 * The environment variable ``APP_CONFIG`` has been set to declare the name of the config file for ``gunicorn``.
 
 
-# Open Shift Documentation.
+## Open Shift Documentation.
 
 
 ##### OpenShift es Kubernetes para empresas.
