@@ -105,3 +105,7 @@ oc new-app python:2.7~https://github.com/jorgeloviedo/openShift
 
 ##### Create and Build an Image Using the Web Console
 * https://docs.openshift.org/latest/getting_started/developers_console.html
+
+
+##### Installing the OpenShift Client Tools.
+* https://developers.openshift.com/managing-your-applications/client-tools.html
