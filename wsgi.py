@@ -11,7 +11,7 @@ application = Flask(__name__)
 def api_get():
     try:
         data = ({
-            "test openshift automatico con variante": os.getenv("NAME", "Test"),
+            "01 test openshift automatico con variante": os.getenv("NAME", "Test"),
             "hostname para test": socket.gethostname()
         })
     except:
