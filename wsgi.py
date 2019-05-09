@@ -1,5 +1,6 @@
-from flask import Flask 
-import json import os 
+from flask import Flask
+import json
+import os
 import socket
 
 application = Flask(__name__)
@@ -21,6 +22,7 @@ def api_get():
         })
 
     return json.dumps(data)
+
 
 if __name__ == "__main__":
     application.run(debug=True, port=5002)
