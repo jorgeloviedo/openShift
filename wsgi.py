@@ -1,7 +1,4 @@
-from flask import Flask
-import json
-import os
-import socket
+from flask import Flask import json import os import socket
 
 application = Flask(__name__)
 
@@ -11,7 +8,7 @@ application = Flask(__name__)
 def api_get():
     try:
         data = ({
-            "01 test openshift automatico con variante": os.getenv("NAME", "Test"),
+            "02 test openshift automatico con variante": os.getenv("NAME", "Test"),
             "hostname para test": socket.gethostname()
         })
     except:
